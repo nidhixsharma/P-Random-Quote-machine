@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:green;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.quote-box{
+  padding:10px;
+  margin: 85px auto;
+  display: block;
+  border: 3px solid burlywood;
+  text-align: center;
+  width:50%;
+  background-color: white;
+}
+
+.text
+{
+ /* font-family: 'Black Han Sans', sans-serif; */
+ font-family: 'Roboto', sans-serif;
+ font-weight: bold;
+ color:  rgb(10, 102, 10);
+}
+
+.author
+{
+  font-family: 'Roboto', sans-serif;
+  color: rgb(10, 102, 10);
+}
+ .btn
+{
+  padding: 10px 10px;
+  margin :20px 10px;
+  background-color: #ececec; 
+  cursor:pointer;
+  border : 2px solid burlywood;
+
+
+}
+
